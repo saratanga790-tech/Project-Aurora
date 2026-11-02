@@ -1,6 +1,6 @@
 # Project-Aurora
 **How to Run
-Aurora does not need any use input,=.It reads the floating point values from textfiles. Users can change the textfiles as they please, assuring that the textfiles contains floating point values only.
+Aurora does not need any user input.It reads the floating point values from textfiles. Users can change the textfiles as they please, assuring that the textfiles contains floating point values only.
 
 ***Prerequisites
 You need to have [Code::Blocks](https://codeblocks.org) installed with a C++ compiler (like MinGW).
